@@ -2,7 +2,7 @@
 
 ## Historial
 
-+ **11 / Enero / 2022 :** Andres - init();
++ **14 / Enero / 2022 :** Andres - init();
 
 ## ¿Próximos eventos?
 
