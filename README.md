@@ -2,10 +2,10 @@
 
 ## Historial
 
-+ **14 / Enero / 2022 :** Andres - ws-z-index()
++ **14 / Enero / 2022:** Jordi - SASS live compiler
 
 ## ¿Próximos eventos?
-
++ Andres - ws-z-index()
 + Andres - Eventos JS masticados (custom debouncing)
 + Martin - Lanzar tests automáticos en local, Selenium
 + Jordi - Unit testing en AEM
@@ -18,6 +18,7 @@
 + Jordi - Leccciones aprendidas con Dealer Directory sobre best practices en React
 + Martin - Limitaciones de los dispositivos para testear, extensiones de navegador útiles...
 + Cristian - Typescript
++ Cristian - Tailwind CSS
 + Alex - Request Execution
 + Alex - Core, Page properties inheritance
 + Alex - Web dispatcher

@@ -1,0 +1,25 @@
+{
+
+    "liveSassCompile.settings.generateMap": false,
+
+    "liveSassCompile.settings.includeItems": [
+
+        "ui.apps/src/main/content/jcr_root/apps/seat-website/components/content/recommender"
+
+    ],
+
+    "liveSassCompile.settings.formats": [
+
+        {
+
+            "format": "expanded",
+
+            "extensionName": ".css",
+
+            "savePath": "~/.."
+
+        }
+
+    ]
+
+}
