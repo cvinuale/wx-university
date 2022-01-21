@@ -1,0 +1,52 @@
+@function ws-z-index($scope, $offset) {
+
+    /* How to limit offset ? */
+
+    @if $offset >= 1000 {
+        @error "ws-z-index function: $offset must be less than 1000! If needed, provide a different scope.";
+    }
+
+	$z-index-scope: map-get((
+		"modal" : 5000,
+		"navbar" : 4000,
+		"floating" : 3000,
+		"cross-component": 2000,
+		"component": 1000
+	), $scope);
+
+    $z-index: $z-index-scope + $offset;
+
+	@return $z-index;
+
+}
+
+.my-modal {
+	z-index: ws-z-index("modal", 25);
+}
+
+.my-navbar {
+	z-index: ws-z-index("navbar", 15);
+}
+
+.my-floating-buttons {
+	z-index: ws-z-index("floating", 70);
+}
+
+.my-component {
+	.sticky-element {
+		z-index: ws-z-index("cross-component", 53);
+	}
+    z-index: ws-z-index("component", 23);
+}
+
+/*
+
+	Result
+	===============================
+	.my-modal -> 5025
+	.my-navbar -> 4015
+	.my-floating-buttons -> 3007
+	.my-component .sticky-element -> 1053
+	.my-component -> 1023
+
+*/

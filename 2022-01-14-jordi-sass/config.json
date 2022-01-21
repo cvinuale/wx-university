@@ -3,21 +3,14 @@
     "liveSassCompile.settings.generateMap": false,
 
     "liveSassCompile.settings.includeItems": [
-
-        "ui.apps/src/main/content/jcr_root/apps/seat-website/components/content/recommender"
-
+        "2022-01-21-andres-z-index-hashcode"
     ],
 
     "liveSassCompile.settings.formats": [
 
         {
-
             "format": "expanded",
-
-            "extensionName": ".css",
-
-            "savePath": "~/.."
-
+            "extensionName": ".css"
         }
 
     ]
