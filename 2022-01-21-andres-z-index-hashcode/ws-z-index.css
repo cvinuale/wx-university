@@ -1,0 +1,31 @@
+.my-modal {
+  z-index: 5025;
+}
+
+.my-navbar {
+  z-index: 4015;
+}
+
+.my-floating-buttons {
+  z-index: 3070;
+}
+
+.my-component {
+  z-index: 1026;
+}
+
+.my-component .sticky-element {
+  z-index: 2053;
+}
+
+/*
+
+	Result
+	===============================
+	.my-modal -> 5025
+	.my-navbar -> 4015
+	.my-floating-buttons -> 3070
+	.my-component .sticky-element -> 2053
+	.my-component -> 1023
+
+*/

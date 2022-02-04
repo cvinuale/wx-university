@@ -4,10 +4,10 @@
 
 + **2022-01-14:** Jordi - SASS live compiler
 + **2022-01-21:** Andres - ws-z-index(), HashCode2022
++ **2022-01-28:** Martin - Lanzar tests automáticos en local, Selenium
++ **2022-02-04:** Andres - Eventos JS masticados (custom debouncing)
 
 ## ¿Próximos eventos?
-+ Martin - Lanzar tests automáticos en local, Selenium
-+ Andres - Eventos JS masticados (custom debouncing)
 + Jordi - Unit testing en AEM
 + Cristian - Graph QL for dummies
 + Fran - Ciclo de releases, procedimiento para un Hotfix
