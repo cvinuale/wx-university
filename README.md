@@ -6,10 +6,10 @@
 + **2022-01-21:** Andres - ws-z-index(), HashCode2022
 + **2022-01-28:** Martin - Lanzar tests automáticos en local, Selenium
 + **2022-02-04:** Andres - Eventos JS masticados (custom debouncing)
-+ **2022-02-11:** Cristian
++ **2022-02-11:** Cristian - Find a Dealer component
++ **2022-02-18:** Jordi - Unit testing en AEM
 
 ## ¿Próximos eventos?
-+ Jordi - Unit testing en AEM
 + Cristian - Graph QL for dummies
 + Fran - Ciclo de releases, procedimiento para un Hotfix
 + Andres - ¿Hacia nuestro propio Bootstrap?
