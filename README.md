@@ -10,14 +10,18 @@
 + **2022-02-18:** Jordi - Unit testing en AEM
 + **2022-02-25:** --- (PI)
 + **2022-03-04:** Andres - Unificar CSS vs directorio vwgroup
-+ **2022-03-11:** Páginas y componentes de Cupra
++ **2022-03-11:** Cristian - Find a Dealer
++ **2022-03-18:** Martin - Contribuir Content Fragments
++ **2022-03-25:** Martin - Tests en JIRA
 
 ## ¿Próximos eventos?
-+ **2022-03-18:** Andres - Páginas y componentes de Seat
-+ **2022-03-25:** Fran - Ciclo de releases, procedimiento para un Hotfix, burocracia en SEAT:CODE
-+ **2022-04-01:** Andres - Accesibilidad web, navegación por teclado
-+ **2022-04-08:** Cristian - Graph QL
-+ **2022-04-15:** Martin - Crear issues en JIRA (pero bien hechas)
++ **2022-04-01:** Cristian - Carrusel/Slider homemade
++ **Soon:** Páginas y componentes de Cupra
++ **Soon:** Páginas y componentes de Seat
++ **Soon:** Fran - Ciclo de releases, procedimiento para un Hotfix, burocracia en SEAT:CODE
++ **Soon:** Andres - Accesibilidad web, navegación por teclado
++ **Soon:** Cristian - Graph QL
++ **Soon:** Martin - Crear issues en JIRA (pero bien hechas)
 + Martin - Reportes en Allure
 + Cristian - React & Microservices
 + Jordi - Leccciones aprendidas con Dealer Directory sobre best practices en React
