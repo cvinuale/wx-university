@@ -8,20 +8,31 @@
 + **2022-02-04:** Andres - Eventos JS masticados (custom debouncing)
 + **2022-02-11:** Cristian - Find a Dealer component
 + **2022-02-18:** Jordi - Unit testing en AEM
-+ **2022-02-25:** --- (PI)
-+ **2022-03-04:** Andres - Unificar CSS vs directorio vwgroup
++ **2022-02-25:** - **CANCELADA** - PI
++ **2022-03-04:** Andres - Unificar CSS vs directorio vwgroup/
 + **2022-03-11:** Cristian - Find a Dealer
 + **2022-03-18:** Martin - Contribuir Content Fragments
 + **2022-03-25:** Martin - Tests en JIRA
++ **2022-04-01:** Cristian - Carrusel/Slider homemade, React render con copias de arrays
++ **2022-04-08:** Andres - CSS modules, Cristian - Find a dealer
++ **2022-04-15:** - **CANCELADA** - Semana santa
++ **2022-04-22:** Juan - Componentes de Cupra
++ **2022-04-29:** - **CANCELADA** - Objetivos PI
++ **2022-05-06:** - **CANCELADA** - PI
++ **2022-05-13:** Cristian - Debounce, throttling y cancel API request
 
 ## ¿Próximos eventos?
-+ **2022-04-01:** Cristian - Carrusel/Slider homemade
-+ **Soon:** Páginas y componentes de Cupra
-+ **Soon:** Páginas y componentes de Seat
-+ **Soon:** Fran - Ciclo de releases, procedimiento para un Hotfix, burocracia en SEAT:CODE
-+ **Soon:** Andres - Accesibilidad web, navegación por teclado
-+ **Soon:** Cristian - Graph QL
-+ **Soon:** Martin - Crear issues en JIRA (pero bien hechas)
+
++ **Soon:** ALL - dNextCon, conferencias para desarrolladores
++ **Soon:** Andres - Web Components 101
++ **Soon:** Andres - Fiddler
++ **Soon:** SEAT - Páginas y componentes de Seat
++ **Soon:** Fran - Ciclo de releases, transacciones de JIRA, burocracia en SEAT:CODE, organigrama
++ **Soon:** Andres - Accesibilidad web, navegación por teclado en LLB
++ **Soon:** Andres - Curiosidades CSS de LLB: responsive carousel, grid inside Swiper
++ Victor - Github Copilot
++ Cristian - Graph QL
++ Martin - Crear issues en JIRA (pero bien hechas)
 + Martin - Reportes en Allure
 + Cristian - React & Microservices
 + Jordi - Leccciones aprendidas con Dealer Directory sobre best practices en React
@@ -31,3 +42,9 @@
 + Alex - Request Execution
 + Alex - Core, Page properties inheritance
 + Alex - Web dispatcher
++ Martin? Fran? - Public master/copies, rollouts
+
+## Guests?
+
++ Aaron - React best practices, FeatureHub, One.Shop, Microfrontends
++ Omar - One.Shop architecture
