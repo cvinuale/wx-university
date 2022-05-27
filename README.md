@@ -25,6 +25,7 @@
 
 ## ¿Próximos eventos?
 
++ **Soon:** ¿? - Coches de SEAT y CUPRA, trims, engines...
 + **Soon:** Andres - Fiddler
 + **Soon:** SEAT - Páginas y componentes de Seat
 + **Soon:** Fran - Ciclo de releases, transacciones de JIRA, burocracia en SEAT:CODE, organigrama
