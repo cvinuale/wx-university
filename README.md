@@ -17,14 +17,14 @@
 + **2022-04-08:** Andres - CSS modules, Cristian - Find a dealer
 + **2022-04-15:** - **CANCELADA** - Semana santa
 + **2022-04-22:** Juan - Componentes de Cupra
-+ **2022-04-29:** - **CANCELADA** - Objetivos PI
++ **2022-04-29:** - **CANCELADA** - Terminar objetivos de PI
 + **2022-05-06:** - **CANCELADA** - PI
 + **2022-05-13:** Cristian - Debounce, throttling y cancel API request
++ **2022-05-20:** Andres, Martin - Pixel perfect testing
++ **2022-05-27:** Andres - Introducción a Web Components, GitHub Copilot; Cristian - Calculadora en React
 
 ## ¿Próximos eventos?
 
-+ **Soon:** ALL - dNextCon, conferencias para desarrolladores
-+ **Soon:** Andres - Web Components 101
 + **Soon:** Andres - Fiddler
 + **Soon:** SEAT - Páginas y componentes de Seat
 + **Soon:** Fran - Ciclo de releases, transacciones de JIRA, burocracia en SEAT:CODE, organigrama
