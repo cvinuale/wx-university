@@ -22,15 +22,15 @@
 + **2022-05-13:** Cristian - Debounce, throttling y cancel API request
 + **2022-05-20:** Andres, Martin - Pixel perfect testing
 + **2022-05-27:** Andres - Introducción a Web Components, GitHub Copilot; Cristian - Calculadora en React
++ **2022-06-03:** Andres - CSS responsive inner element, CSS grid inside Swiper, CSS animations for "auto" properties, Fiddler AutoResponder; Cristian - Debounce and tracking
 
 ## ¿Próximos eventos?
 
++ **Soon:** All - Feedback y propuestas sobre WS-University
 + **Soon:** ¿? - Coches de SEAT y CUPRA, trims, engines...
-+ **Soon:** Andres - Fiddler
 + **Soon:** SEAT - Páginas y componentes de Seat
 + **Soon:** Fran - Ciclo de releases, transacciones de JIRA, burocracia en SEAT:CODE, organigrama
 + **Soon:** Andres - Accesibilidad web, navegación por teclado en LLB
-+ **Soon:** Andres - Curiosidades CSS de LLB: responsive carousel, grid inside Swiper
 + Victor - Github Copilot
 + Cristian - Graph QL
 + Martin - Crear issues en JIRA (pero bien hechas)
@@ -49,3 +49,4 @@
 
 + Aaron - React best practices, FeatureHub, One.Shop, Microfrontends
 + Omar - One.Shop architecture
++ Alejandro Pérez, Carmen - Otras soluciones de AEM

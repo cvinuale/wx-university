@@ -1,0 +1,72 @@
+<html>
+
+	<head>
+		
+		<style>
+		
+		.content {
+		  width: 500px;
+		  background: #cccccc;
+		  overflow: hidden;
+		}
+
+		.animate {
+		  transition: max-height 0.5s linear;
+		}
+
+		.closed {
+		  max-height: 0px !important;
+		}
+
+		.trigger-reflow::after {
+		  position: absolute;
+		  top: 0;
+		  bottom: 0;
+		  left: 0;
+		  right: 0;
+		  content: ' ';
+		}
+		
+		</style>
+		
+	</head>
+
+	<body>
+
+		<div id="content" class="content animate">
+		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</div>
+
+		<hr>
+			
+		<button id="content-close">CLOSE the paragraph section</button>
+		<button id="content-open">RESET</button>
+		
+		<script>
+		
+			document
+			.querySelector('#content-close')
+			.addEventListener('click', () => {
+				const content = document.querySelector('#content');
+				content.style.setProperty('max-height', window.getComputedStyle(content).height);
+
+				// Uncomment to force the layout / reflow
+				// The animation should then be smooth
+				// content.offsetHeight;
+
+				content.classList.add('closed');
+			});
+
+			document
+			.querySelector('#content-open')
+			.addEventListener('click', () => {
+				const content = document.querySelector('#content');
+				content.style.setProperty('max-height', '');
+				content.classList.remove('closed');
+			});
+
+		</script>
+		
+	</body>
+
+</html>
