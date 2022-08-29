@@ -8,45 +8,58 @@
 + **2022-02-04:** Andres - Eventos JS masticados (custom debouncing)
 + **2022-02-11:** Cristian - Find a Dealer component
 + **2022-02-18:** Jordi - Unit testing en AEM
-+ **2022-02-25:** - **CANCELADA** - PI
++ **2022-02-25:** - **/Cancelada/** - PI
 + **2022-03-04:** Andres - Unificar CSS vs directorio vwgroup/
 + **2022-03-11:** Cristian - Find a Dealer
 + **2022-03-18:** Martin - Contribuir Content Fragments
 + **2022-03-25:** Martin - Tests en JIRA
 + **2022-04-01:** Cristian - Carrusel/Slider homemade, React render con copias de arrays
 + **2022-04-08:** Andres - CSS modules, Cristian - Find a dealer
-+ **2022-04-15:** - **CANCELADA** - Semana santa
++ **2022-04-15:** - **/Cancelada/** - Semana santa
 + **2022-04-22:** Juan - Componentes de Cupra
-+ **2022-04-29:** - **CANCELADA** - Terminar objetivos de PI
-+ **2022-05-06:** - **CANCELADA** - PI
++ **2022-04-29:** - **/Cancelada/** - Terminar objetivos de PI
++ **2022-05-06:** - **/Cancelada/** - PI
 + **2022-05-13:** Cristian - Debounce, throttling y cancel API request
 + **2022-05-20:** Andres, Martin - Pixel perfect testing
 + **2022-05-27:** Andres - Introducción a Web Components, GitHub Copilot; Cristian - Calculadora en React
 + **2022-06-03:** Andres - CSS responsive inner element, CSS grid inside Swiper, CSS animations for "auto" properties, Fiddler AutoResponder; Cristian - Debounce and tracking
++ **2022-06-10:** Juan - Instalación y configuración de Repo
++ **2022-06-17:** Andres - Ideas sobre el entorno de desarrollo, Generar una fuente de iconos
++ **2022-06-24:** - **/Cancelada/** - San Juan
++ **2022-07-01:** Cristian - StickyManager, Andres - AEM React tutorial, Fran - Liferay
++ **2022-07-15:** Andres - Test JS (jsisweird.com)
++ **2022-07-15:** - **/Cancelada/** - PI
++ **2022-07-22:** Cristian - Find a dealer: dependencias de información cross-component, Andres - Test de accesibilidad en DoD
++ **2022-07-29:** Andres - JIRA template, JIRA workflow, problema de configuración de JAVA_HOME
++ **2022-08-05:** Andres - Tarea Design System, Certificación AEM Bussiness Practitioner, Objeto SlingHTTPRequest en AEM, Javascript quizz
++ **2022-08-12:** - **/Cancelada/**
++ **2022-08-19:** Andres - Javascript quizz, Charlas sobre el Event Loop en Youtube, Feeds para estar al día
++ **2022-08-26:** - **/Cancelada/** - Vacaciones
 
-## ¿Próximos eventos?
+## Posibles próximos eventos
 
-+ **Soon:** All - Feedback y propuestas sobre WS-University
-+ **Soon:** ¿? - Coches de SEAT y CUPRA, trims, engines...
-+ **Soon:** SEAT - Páginas y componentes de Seat
-+ **Soon:** Fran - Ciclo de releases, transacciones de JIRA, burocracia en SEAT:CODE, organigrama
-+ **Soon:** Andres - Accesibilidad web, navegación por teclado en LLB
++ Martin - Content Fragments para colores
++ All - Feedback y propuestas sobre WS-University
++ Martin? Fran? - Public master/copies, rollouts?
++ ¿? - Coches de SEAT y CUPRA, trims, engines...
++ WSEAT - Páginas y componentes de Seat
++ Fran - Ciclo de releases, transacciones de JIRA, burocracia en SEAT:CODE, organigrama
 + Victor - Github Copilot
 + Cristian - Graph QL
 + Martin - Crear issues en JIRA (pero bien hechas)
-+ Martin - Reportes en Allure
++ Martin - Informes de Allure
 + Cristian - React & Microservices
 + Jordi - Leccciones aprendidas con Dealer Directory sobre best practices en React
 + Cristian - Typescript
 + Martin - Limitaciones de los dispositivos para testear, extensiones de navegador útiles...
 + Cristian - Tailwind CSS
-+ Alex - Request Execution
-+ Alex - Core, Page properties inheritance
++ Andres - Accesibilidad web, navegación por teclado en LLB
++ Alex - Proceso de ejecución de una petición en AEM
++ Alex - Core, Herencia de Page properties
 + Alex - Web dispatcher
-+ Martin? Fran? - Public master/copies, rollouts
 
-## Guests?
+## Invitados
 
-+ Aaron - React best practices, FeatureHub, One.Shop, Microfrontends
++ Aaron - React best practices, FeatureHub, FeatureApps, Microfrontends, One.Shop
 + Omar - One.Shop architecture
-+ Alejandro Pérez, Carmen - Otras soluciones de AEM
++ Alejandro Pérez, Carmen - Soluciones de AEM implantadas en otros clientes
