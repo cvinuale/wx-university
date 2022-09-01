@@ -32,7 +32,7 @@
 + **2022-07-22:** Cristian - Find a dealer: dependencias de información cross-component, Andres - Test de accesibilidad en DoD
 + **2022-07-29:** Andres - JIRA template, JIRA workflow, problema de configuración de JAVA_HOME
 + **2022-08-05:** Andres - Tarea Design System, Certificación AEM Bussiness Practitioner, Objeto SlingHTTPRequest en AEM, Javascript quizz
-+ ~~2022-08-12:~~  * Cancelada
++ ~~2022-08-12:~~ * Cancelada
 + **2022-08-19:** Andres - Javascript quizz, Charlas sobre el Event Loop en Youtube, Feeds para estar al día
 + ~~2022-08-26:~~ * Cancelada por vacaciones
 
