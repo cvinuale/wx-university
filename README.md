@@ -25,7 +25,7 @@
 + **2022-06-03:** Andres - CSS responsive inner element, CSS grid inside Swiper, CSS animations for "auto" properties, Fiddler AutoResponder; Cristian - Debounce and tracking
 + **2022-06-10:** Juan - Instalación y configuración de Repo
 + **2022-06-17:** Andres - Ideas sobre el entorno de desarrollo, Generar una fuente de iconos
-+ ~~2022-06-24:~~ Cancelada por San Juan
++ ~~2022-06-24:~~ * Cancelada por San Juan
 + **2022-07-01:** Cristian - StickyManager, Andres - AEM React tutorial, Fran - Liferay
 + **2022-07-15:** Andres - Test JS (jsisweird.com)
 + ~~2022-07-15:~~ * Cancelada por PI
