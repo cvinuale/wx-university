@@ -1,4 +1,4 @@
-# WS University
+# WX University
 
 ## Historial
 
