@@ -35,6 +35,7 @@
 + ~~2022-08-12:~~ * Cancelada
 + **2022-08-19:** Andres - Javascript quizz, Charlas sobre el Event Loop en Youtube, Feeds para estar al día
 + ~~2022-08-26:~~ * Cancelada por vacaciones
++ **2022-09-02:** Andres - Próximas novedades en CSS
 
 ## Posibles próximos eventos
 
